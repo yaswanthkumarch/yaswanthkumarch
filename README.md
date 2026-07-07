@@ -1,186 +1,229 @@
 <h1 align="center">🚀 Yaswanth Kumar</h1>
 
 <h3 align="center">
-Cloud Engineer • DevOps Engineer • AI Builder • Open Source Contributor • Vibe Coder
+Cloud Engineer • DevOps Engineer • AI Engineer • Forward Deployed Engineer • Generative AI Builder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=800&lines=Cloud+Native+Engineer;DevOps+Engineer;AI+Builder;Platform+Engineering+Enthusiast;Open+Source+Contributor"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Cloud+Native+Engineer;DevOps+Automation+Engineer;Generative+AI+Developer;RAG+%26+LLM+Engineer;Platform+Engineer;Vibe+Coder"/>
+
 </p>
 
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yaswanthkumarch&label=Profile%20Views&color=blue&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/yaswanthkumarch?label=Followers&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=yaswanthkumarch&style=flat-square&color=blue"/>
+
 </p>
+
 
 ---
 
 # 👋 About Me
 
-Hello! I'm **Yaswanth Kumar** 👋
 
-I am a software engineer passionate about building innovative products at the intersection of:
-
-☁️ Cloud Computing  
-⚙️ DevOps & Platform Engineering  
-🤖 Artificial Intelligence  
-🚀 Developer Experience  
-🔧 Internal Developer Platforms  
-🌍 Sustainability & Carbon Intelligence  
+Hi, I'm **Yaswanth Kumar** 👋
 
 
-I enjoy transforming ideas into production-ready systems, automating repetitive engineering tasks, and creating tools that help developers build faster and smarter.
+I build modern engineering systems combining:
 
----
 
-# 🔥 What I'm Working On
+☁️ Cloud Platforms
 
-🚀 AI-powered engineering products
+⚙️ DevOps Automation
 
-☁️ Cloud-native application development
+🤖 Generative AI
 
-⚙️ Internal Developer Platforms (IDP)
+🧠 LLM Applications
 
-🐳 Kubernetes and container ecosystems
+🔎 RAG Systems
 
-🔄 CI/CD automation platforms
+🚀 Forward Deployed Engineering
 
-📊 Observability and monitoring solutions
+🔧 Internal Developer Platforms
 
-🤖 AI agents and developer assistants
+💻 Vibe Coding
 
-🌱 Carbon emission intelligence platforms
 
-🛠 Developer productivity tools
+
+My goal is to create software that makes engineering faster, smarter, and more enjoyable.
 
 
 ---
 
-# 🛠️ Technology Arsenal
+# 🚀 Engineering Roles
 
 
-## ☁️ Cloud & Infrastructure
+## ☁️ Cloud Engineer
+
+Building:
+
+- Cloud-native applications
+- Scalable infrastructure
+- Enterprise platforms
+- Infrastructure automation
 
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,terraform"/>
-</p>
+## ⚙️ DevOps Engineer
 
+Working with:
 
-**Technologies**
-
-- Microsoft Azure
-- Terraform
-- Bicep
-- Azure Resource Manager
-- Cloud Architecture
+- CI/CD
+- GitOps
+- Kubernetes
+- Containers
 - Infrastructure as Code
 
 
----
+## 🚀 Forward Deployed Engineer
 
-## 🚀 DevOps & Platform Engineering
+Focused on:
 
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git"/>
-</p>
-
-
-**Technologies**
-
-- Azure DevOps
-- GitHub Actions
-- Jenkins
-- Docker
-- Kubernetes
-- Helm
-- GitOps
-- CI/CD Automation
+- Customer-driven engineering
+- Production deployments
+- Solution architecture
+- Rapid delivery
+- Technical problem solving
 
 
----
+## 🤖 Generative AI Engineer
 
-## 💻 Programming Languages
+Building:
+
+- LLM applications
+- AI agents
+- AI assistants
+- Automation workflows
+- Intelligent developer tools
 
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript"/>
-</p>
+## 🔎 RAG Engineer
 
+Building:
 
-**Languages & Development**
+- Retrieval Augmented Generation systems
+- Embedding pipelines
+- Semantic search
+- Knowledge assistants
+- Enterprise AI search
 
-- Python
-- Java
-- JavaScript
-- TypeScript
-- REST APIs
-- Microservices
-- Backend Development
 
 
 ---
 
-## 🎨 Frontend Development
+# 🛠️ Technology Stack
 
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-</p>
+## ☁️ Cloud
 
 
-**Technologies**
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge"/>
+
 
 
 ---
 
-## 🤖 AI & Developer Productivity
+## ⚙️ DevOps
 
 
-**AI Engineering**
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-- AI Agents
-- Large Language Models (LLMs)
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+
+
+
+---
+
+## 💻 Programming
+
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+
+
+---
+
+## 🎨 Frontend
+
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss"/>
+
+
+
+---
+
+# 🤖 AI Engineering
+
+
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LLM_Applications-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG_Systems-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Agents-green?style=for-the-badge"/>
+
+
+
+Technologies:
+
+- LLMs
 - Prompt Engineering
-- AI-powered workflows
-- Developer Assistants
-- AI Automation
-- Intelligent DevOps Systems
+- AI Agents
+- LangChain
+- LlamaIndex
+- Semantic Kernel
+- Hugging Face
 
-
----
-
-## 📊 Observability
-
-
-**Monitoring Stack**
-
-- Prometheus
-- Grafana
-- Azure Monitor
-- Log Analytics
 
 
 ---
 
-## 🗄️ Databases
+# 🗄️ Vector Databases
 
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-</p>
+- Pinecone
+- ChromaDB
+- FAISS
+- Weaviate
+- Milvus
+- Azure AI Search
+- PostgreSQL + pgvector
 
 
-- PostgreSQL
-- MySQL
-- MongoDB
+
+---
+
+# 📊 Observability
+
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge"/>
+
 
 
 ---
@@ -188,80 +231,41 @@ I enjoy transforming ideas into production-ready systems, automating repetitive 
 # 🚧 Featured Projects
 
 
-## 🌱 Carbon Intelligence Platform
-
-
-Building solutions that help organizations:
-
-- Measure carbon emissions
-- Analyze environmental impact
-- Generate actionable insights
-- Improve sustainability decisions
-
-
----
-
-## 🚀 Internal Developer Platform (IDP)
-
-
-A unified engineering platform providing:
-
-✅ Developer self-service
-
-✅ Automated deployments
-
-✅ Infrastructure provisioning
-
-✅ Observability dashboards
-
-✅ Cloud resource management
-
-✅ Engineering workflows
-
-
----
-
 ## 🤖 AI Engineering Assistant
 
+AI assistant for:
 
-AI-powered engineering assistant for:
-
-✅ DevOps automation
-
-✅ Cloud troubleshooting
-
-✅ Developer productivity
-
-✅ Infrastructure insights
-
-✅ Engineering workflows
+- Cloud troubleshooting
+- DevOps automation
+- Developer productivity
+- Engineering workflows
 
 
----
+## 🔎 Enterprise RAG Platform
 
-# 🌍 Open Source Mission
+Features:
 
-
-I believe great software is built through collaboration.
-
-My interests:
-
-☁️ Azure Ecosystem
-
-🐳 Kubernetes Projects
-
-⚙️ DevOps Tooling
-
-🚀 Platform Engineering
-
-📊 Monitoring & Observability
-
-🤖 AI Developer Tools
-
-🌐 Cloud Infrastructure
+- Document processing
+- Embeddings
+- Vector search
+- AI answers
+- Knowledge intelligence
 
 
-Always interested in collaborating with developers, maintainers, startups, and engineering teams.
+## 🚀 Internal Developer Platform
+
+Capabilities:
+
+- Self-service deployments
+- Infrastructure automation
+- Observability
+- Developer workflows
+
+
+## 🌱 Carbon Intelligence Platform
+
+Technology platform for sustainability analytics and carbon insights.
+
 
 
 ---
@@ -269,77 +273,52 @@ Always interested in collaborating with developers, maintainers, startups, and e
 # 🏆 Certifications
 
 
-🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**
+🏅 Azure Fundamentals (AZ-900)
 
-🏅 **Microsoft Certified: Azure Developer Associate (AZ-204)**
+🏅 Azure Developer Associate (AZ-204)
 
-🏅 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
+🏅 Fabric Analytics Engineer Associate (DP-600)
+
 
 
 ---
 
-# 📈 GitHub Statistics
+# 📈 GitHub Stats
 
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yaswanthkumarch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthkumarch&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yaswanthkumarch&show_icons=true&theme=tokyonight"/>
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthkumarch&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthkumarch&theme=tokyonight"/>
 
 </p>
 
 
----
-
-# 📊 Contribution Activity
-
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanthkumarch&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
 
 ---
 
-# 🏅 GitHub Trophy
+# 🎯 Goals
 
 
-<p align="center">
+🚀 Build AI-native products
 
-<img src="https://github-profile-trophy.vercel.app/?username=yaswanthkumarch&theme=tokyonight&no-frame=true&row=1&column=7"/>
+☁️ Create cloud platforms
 
-</p>
+⚙️ Improve developer experience
+
+🤖 Build intelligent engineering systems
+
+🌍 Contribute to open source
+
 
 
 ---
 
-# 🎯 2026 Goals
-
-
-🚀 Build production-grade AI products
-
-🌎 Contribute to major open-source projects
-
-☁️ Expand cloud-native expertise
-
-⚙️ Build enterprise-grade developer platforms
-
-🤖 Create AI-powered engineering solutions
-
-🌱 Develop sustainable technology solutions
-
-
----
-
-# 📚 Engineering Principles
+# 💻 Vibe Coding
 
