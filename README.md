@@ -1,57 +1,93 @@
-🚀 Yaswanth Kumar
+<h1 align="center">🚀 Yaswanth Kumar</h1>
 
+<h3 align="center">
 Cloud Engineer • DevOps Engineer • AI Builder • Open Source Contributor • Vibe Coder
+</h3>
 
-«Building cloud-native platforms, AI-powered products, developer tools, and automation solutions that make engineering faster, smarter, and more enjoyable.»
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=800&lines=Cloud+Native+Engineer;DevOps+Engineer;AI+Builder;Platform+Engineering+Enthusiast;Open+Source+Contributor"/>
+</p>
 
----
-
-👋 About Me
-
-I'm Yaswanth Kumar, a software engineer passionate about creating innovative products at the intersection of:
-
-☁️ Cloud Computing
-
-⚙️ DevOps & Platform Engineering
-
-🤖 Artificial Intelligence
-
-🚀 Developer Experience (DX)
-
-🔧 Internal Developer Platforms (IDP)
-
-🌍 Sustainability & Carbon Intelligence
-
-I enjoy turning ideas into production-ready products, automating repetitive work, and contributing to open-source projects that empower developers worldwide.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yaswanthkumarch&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/yaswanthkumarch?label=Followers&style=for-the-badge"/>
+</p>
 
 ---
 
-🔥 What I'm Focused On
+# 👋 About Me
 
-- Building AI-powered engineering products
-- Cloud-native application development
-- Platform engineering and Internal Developer Platforms
-- Open-source contributions
-- Kubernetes and container ecosystems
-- DevOps automation and CI/CD
-- Observability and monitoring platforms
-- Carbon emission intelligence solutions
-- Developer productivity tools
-- Vibe Coding and rapid product development
+Hello! I'm **Yaswanth Kumar** 👋
+
+I am a software engineer passionate about building innovative products at the intersection of:
+
+☁️ Cloud Computing  
+⚙️ DevOps & Platform Engineering  
+🤖 Artificial Intelligence  
+🚀 Developer Experience  
+🔧 Internal Developer Platforms  
+🌍 Sustainability & Carbon Intelligence  
+
+
+I enjoy transforming ideas into production-ready systems, automating repetitive engineering tasks, and creating tools that help developers build faster and smarter.
 
 ---
 
-🛠️ Technology Arsenal
+# 🔥 What I'm Working On
 
-☁️ Cloud & Infrastructure
+🚀 AI-powered engineering products
+
+☁️ Cloud-native application development
+
+⚙️ Internal Developer Platforms (IDP)
+
+🐳 Kubernetes and container ecosystems
+
+🔄 CI/CD automation platforms
+
+📊 Observability and monitoring solutions
+
+🤖 AI agents and developer assistants
+
+🌱 Carbon emission intelligence platforms
+
+🛠 Developer productivity tools
+
+
+---
+
+# 🛠️ Technology Arsenal
+
+
+## ☁️ Cloud & Infrastructure
+
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,terraform"/>
+</p>
+
+
+**Technologies**
 
 - Microsoft Azure
 - Terraform
 - Bicep
 - Azure Resource Manager
 - Cloud Architecture
+- Infrastructure as Code
 
-🚀 DevOps & Platform Engineering
+
+---
+
+## 🚀 DevOps & Platform Engineering
+
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git"/>
+</p>
+
+
+**Technologies**
 
 - Azure DevOps
 - GitHub Actions
@@ -62,16 +98,39 @@ I enjoy turning ideas into production-ready products, automating repetitive work
 - GitOps
 - CI/CD Automation
 
-💻 Development
+
+---
+
+## 💻 Programming Languages
+
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript"/>
+</p>
+
+
+**Languages & Development**
 
 - Python
+- Java
 - JavaScript
 - TypeScript
-- Java
 - REST APIs
 - Microservices
+- Backend Development
 
-🎨 Frontend
+
+---
+
+## 🎨 Frontend Development
+
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+</p>
+
+
+**Technologies**
 
 - React.js
 - Next.js
@@ -79,116 +138,208 @@ I enjoy turning ideas into production-ready products, automating repetitive work
 - CSS3
 - Tailwind CSS
 
-🤖 AI & Developer Productivity
+
+---
+
+## 🤖 AI & Developer Productivity
+
+
+**AI Engineering**
 
 - AI Agents
-- LLM Integrations
+- Large Language Models (LLMs)
 - Prompt Engineering
-- AI-Powered Workflows
+- AI-powered workflows
 - Developer Assistants
+- AI Automation
+- Intelligent DevOps Systems
 
-📊 Observability
+
+---
+
+## 📊 Observability
+
+
+**Monitoring Stack**
 
 - Prometheus
 - Grafana
 - Azure Monitor
 - Log Analytics
 
-🗄️ Data
+
+---
+
+## 🗄️ Databases
+
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
+
 
 - PostgreSQL
 - MySQL
 - MongoDB
 
----
-
-🚧 Current Projects
-
-🌱 Carbon Intelligence Platform
-
-Helping organizations measure, monitor, and reduce carbon emissions through actionable insights.
-
-🚀 Internal Developer Platform (IDP)
-
-A unified engineering portal for deployments, observability, infrastructure automation, and developer self-service.
-
-🤖 AI Engineering Assistant
-
-AI-powered workflows for DevOps, cloud operations, and developer productivity.
-
-🔧 Open Source Contributions
-
-Actively contributing to cloud, Azure, DevOps, monitoring, automation, and platform engineering projects.
 
 ---
 
-🌍 Open Source Mission
+# 🚧 Featured Projects
+
+
+## 🌱 Carbon Intelligence Platform
+
+
+Building solutions that help organizations:
+
+- Measure carbon emissions
+- Analyze environmental impact
+- Generate actionable insights
+- Improve sustainability decisions
+
+
+---
+
+## 🚀 Internal Developer Platform (IDP)
+
+
+A unified engineering platform providing:
+
+✅ Developer self-service
+
+✅ Automated deployments
+
+✅ Infrastructure provisioning
+
+✅ Observability dashboards
+
+✅ Cloud resource management
+
+✅ Engineering workflows
+
+
+---
+
+## 🤖 AI Engineering Assistant
+
+
+AI-powered engineering assistant for:
+
+✅ DevOps automation
+
+✅ Cloud troubleshooting
+
+✅ Developer productivity
+
+✅ Infrastructure insights
+
+✅ Engineering workflows
+
+
+---
+
+# 🌍 Open Source Mission
+
 
 I believe great software is built through collaboration.
 
-Interested in contributing to:
+My interests:
 
-- Azure Ecosystem
-- Cloud Infrastructure
-- DevOps Tooling
-- Kubernetes Projects
-- Developer Experience Platforms
-- Monitoring & Observability
-- AI Developer Tools
-- Platform Engineering Solutions
+☁️ Azure Ecosystem
 
-Always open to collaborating with maintainers, startups, and engineering teams.
+🐳 Kubernetes Projects
 
----
+⚙️ DevOps Tooling
 
-🏆 Certifications
+🚀 Platform Engineering
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Certified: Azure Developer Associate (AZ-204)
-- Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
+📊 Monitoring & Observability
 
----
+🤖 AI Developer Tools
 
-📈 Engineering Principles
+🌐 Cloud Infrastructure
 
-✅ Build First
 
-✅ Automate Everything
+Always interested in collaborating with developers, maintainers, startups, and engineering teams.
 
-✅ Learn Continuously
-
-✅ Share Knowledge
-
-✅ Contribute to Open Source
-
-✅ Focus on Developer Experience
-
-✅ Create Real Impact
 
 ---
 
-🎯 2026 Goals
+# 🏆 Certifications
 
-- Contribute to major open-source cloud projects
-- Build production-grade AI products
-- Launch innovative SaaS platforms
-- Expand platform engineering expertise
-- Become a recognized contributor in the cloud-native ecosystem
 
----
+🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**
 
-🤝 Connect With Me
+🏅 **Microsoft Certified: Azure Developer Associate (AZ-204)**
 
-📧 Email: yaswanthkumarch2001@gmail.com
+🏅 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
 
-💼 LinkedIn: linkedin.com/in/yaswanthkumarch
-
-🐙 GitHub: github.com/yaswanthkumarch
 
 ---
 
-💡 Personal Motto
+# 📈 GitHub Statistics
 
-"Build. Automate. Innovate. Contribute."
 
-Creating the future one commit at a time.
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yaswanthkumarch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthkumarch&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthkumarch&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+---
+
+# 📊 Contribution Activity
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanthkumarch&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+
+---
+
+# 🏅 GitHub Trophy
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yaswanthkumarch&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+
+---
+
+# 🎯 2026 Goals
+
+
+🚀 Build production-grade AI products
+
+🌎 Contribute to major open-source projects
+
+☁️ Expand cloud-native expertise
+
+⚙️ Build enterprise-grade developer platforms
+
+🤖 Create AI-powered engineering solutions
+
+🌱 Develop sustainable technology solutions
+
+
+---
+
+# 📚 Engineering Principles
+
