@@ -1,3 +1,4 @@
+
 # Yaswanth Kumar
 
 ## Cloud Engineer | DevOps Engineer | Forward Deployed Engineer | Generative AI Engineer | Open Source Contributor
@@ -329,4 +330,165 @@ Interested in contributing to:
 ---
 
 # Vibe Coding Philosophy
+
+
+```
+
+Idea
+
+↓
+
+AI Assisted Development
+
+↓
+
+Prototype
+
+↓
+
+Engineering
+
+↓
+
+Production
+
+↓
+
+Continuous Improvement
+
+```
+
+
+Build fast.
+
+Automate everything.
+
+Create meaningful technology.
+
+
+---
+
+# GitHub Analytics
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yaswanthkumarch&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthkumarch&layout=compact&langs_count=12&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+---
+
+# GitHub Streak
+
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=yaswanthkumarch&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+---
+
+# GitHub Activity Graph
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanthkumarch&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+
+---
+
+# GitHub Profile Summary
+
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaswanthkumarch&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+# Repository Statistics
+
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaswanthkumarch&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yaswanthkumarch&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+# GitHub Achievements
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yaswanthkumarch&theme=tokyonight&no-frame=true"/>
+
+</p>
+
+
+---
+
+# 2026 Goals
+
+
+- Build AI-native products
+- Create scalable cloud platforms
+- Master agentic AI systems
+- Improve developer productivity
+- Contribute to open source
+
+
+---
+
+# Connect
+
+
+Email:
+
+yaswanthkumarch2001@gmail.com
+
+
+LinkedIn:
+
+https://linkedin.com/in/yaswanthkumarch
+
+
+Portfolio:
+
+https://yaswanthkumarch.github.io/portfolio/
+
+
+GitHub:
+
+https://github.com/yaswanthkumarch
+
+
+---
+
+# Motto
+
+
+## Build. Automate. Innovate. Deploy.
+
 
